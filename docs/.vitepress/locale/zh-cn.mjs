@@ -29,6 +29,7 @@ export default {
             ],
           },
           { text: "编译内核", link: "/zh-Hans/guide/build" },
+          { text: "非官方支持设备", link: "/zh-Hans/guide/unofficial-devices" },
           { text: "常见问题", link: "/zh-Hans/guide/faq" },
         ],
       },

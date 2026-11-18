@@ -29,6 +29,7 @@ export default {
             ],
           },
           { text: "Building Kernel", link: "/guide/build" },
+          { text: "Unofficial Supported Devices", link: "/guide/unofficial-devices" },
           { text: "FAQ", link: "/guide/faq" },
         ],
       },

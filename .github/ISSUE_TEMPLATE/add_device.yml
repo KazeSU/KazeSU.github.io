@@ -1,0 +1,39 @@
+name: Contribute an unofficially supported device
+description: Add your KazeSU kernel repository to the unofficial device list on the website
+title: "[Add Device]: "
+labels: ["add-device"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for supporting KazeSU!
+
+        This form adds your kernel repository to the
+        [unofficial device list](https://kazesu.github.io/guide/unofficial-devices).
+        A workflow opens a pull request automatically; a maintainer reviews and merges it.
+
+        Please only submit repositories you maintain.
+  - type: input
+    id: repo-url
+    attributes:
+      label: Repository URL
+      description: Public GitHub repository that integrates KazeSU
+      placeholder: https://github.com/owner/kernel-repo
+    validations:
+      required: true
+  - type: textarea
+    id: device
+    attributes:
+      label: Supported devices
+      description: Devices covered by the repository. One line is enough; include codenames where helpful.
+      placeholder: POCO F1 (beryllium), Mi 8 (dipper)
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you confirm that you are the maintainer of the repository.
+      options:
+        - label: I'm the maintainer of this repository
+          required: true

@@ -1,0 +1,30 @@
+[
+  {
+    "maintainer": "1992Ade",
+    "maintainer_link": "https://github.com/1992Ade",
+    "kernel_name": "exynos9820-origin-builder",
+    "kernel_link": "https://github.com/1992Ade/exynos9820-origin-builder",
+    "devices": "Galaxy S10e / S10 / S10+ / S10 5G, Note10 / Note10 5G / Note10+ / Note10+ 5G, Galaxy F62 (Exynos 9820/9825)"
+  },
+  {
+    "maintainer": "1992Ade",
+    "maintainer_link": "https://github.com/1992Ade",
+    "kernel_name": "sdm845-origin-builder",
+    "kernel_link": "https://github.com/1992Ade/sdm845-origin-builder",
+    "devices": "Mi 8, POCO F1, Mi MIX 2S, Mi 8 Pro, Mi MIX 3, Mi 8 Explorer Edition (SDM845)"
+  },
+  {
+    "maintainer": "1992Ade",
+    "maintainer_link": "https://github.com/1992Ade",
+    "kernel_name": "sm6150-origin-builder",
+    "kernel_link": "https://github.com/1992Ade/sm6150-origin-builder",
+    "devices": "Redmi Note 10 Pro / Note 10 Pro Max (sweet / sweetin)"
+  },
+  {
+    "maintainer": "1992Ade",
+    "maintainer_link": "https://github.com/1992Ade",
+    "kernel_name": "msm8937-origin-builder",
+    "kernel_link": "https://github.com/1992Ade/msm8937-origin-builder",
+    "devices": "Redmi 3S / 3X, Redmi 4, Redmi 4X, Redmi 4A, Redmi 5A, Redmi Note 5A / Y1 (MSM8937)"
+  }
+]

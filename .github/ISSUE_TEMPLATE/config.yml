@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: KazeSU releases
+    url: https://github.com/KazeSU/KazeSU/releases
+    about: Download the manager and kernel modules.
+  - name: KazeSU Telegram
+    url: https://t.me/KazeKSU
+    about: Ask questions and follow development updates.
