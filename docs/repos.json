@@ -26,5 +26,12 @@
     "kernel_name": "msm8937-origin-builder",
     "kernel_link": "https://github.com/1992Ade/msm8937-origin-builder",
     "devices": "Redmi 3S / 3X, Redmi 4, Redmi 4X, Redmi 4A, Redmi 5A, Redmi Note 5A / Y1 (MSM8937)"
+  },
+  {
+    "maintainer": "samakshkambxj",
+    "maintainer_link": "https://github.com/samakshkambxj",
+    "kernel_name": "Origin-Kernel",
+    "kernel_link": "https://github.com/samakshkambxj/Origin-Kernel",
+    "devices": "CMF Phone 1 (Tetris), CMF Phone 2 Pro (Galaga), Nothing Phone (3a) Lite (Galaxian)"
   }
 ]
