@@ -19,6 +19,7 @@
     "@nolebase/vitepress-plugin-highlight-targeted-heading": "^2.18.2",
     "@nolebase/vitepress-plugin-inline-link-preview": "^2.18.2",
     "cloudflare-error-page": "^0.1.0",
+    "markdown-it": "^14.3.2",
     "markdown-it-autospace": "^1.1.4",
     "vitepress": "~2.0.0-alpha.20",
     "vitepress-plugin-codeblocks-fold": "^1.2.35",
